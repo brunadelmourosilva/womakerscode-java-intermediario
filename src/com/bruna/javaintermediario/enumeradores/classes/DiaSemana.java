@@ -17,10 +17,4 @@ public enum DiaSemana {
         return valor;
     }
 
-    @Override
-    public String toString() {
-        return "DiaSemana{" +
-                "valor = " + valor +
-                '}';
-    }
 }
