@@ -35,7 +35,6 @@ public class Aula58 {
 
         //auto un-boxing
         Double media = (a + b + c) / 3;
-            
         System.out.println(media);
     }
 }
