@@ -3,7 +3,7 @@
 
 ## 📚 Módulos
 
- - [ ] Módulo 1: Enumeradores(Enum)
+ - [x] Módulo 1: Enumeradores(Enum)
 
  - [ ] Módulo 2: Mais Elementos básicos da linguagem Java
 
