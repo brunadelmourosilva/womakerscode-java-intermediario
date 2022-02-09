@@ -5,7 +5,7 @@
 
  - [x] Módulo 1: Enumeradores(Enum)
 
- - [ ] Módulo 2: Mais Elementos básicos da linguagem Java
+ - [x] Módulo 2: Mais Elementos básicos da linguagem Java
 
  - [ ] Módulo 3: Programação multi-tarefas: Threads
 
