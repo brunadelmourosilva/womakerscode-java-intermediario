@@ -2,6 +2,8 @@ package com.bruna.javaintermediario.threads.testes;
 
 import com.bruna.javaintermediario.threads.classes.MinhaThread;
 
+//instanciando a classe thread
+
 public class Aula67 {
     public static void main(String[] args) {
 
