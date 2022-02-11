@@ -7,7 +7,7 @@
 
  - [x] Módulo 2: Mais Elementos básicos da linguagem Java
 
- - [ ] Módulo 3: Programação multi-tarefas: Threads
+ - [x] Módulo 3: Programação multi-tarefas: Threads
 
  - [ ] Módulo 4: Trabalhando com Strings
  
