@@ -3,7 +3,7 @@ package com.bruna.javaintermediario.threads.classes;
 public class ThreadTiqueTaque implements Runnable{
 
     TiqueTaque tt;
-    Thread t;
+    public Thread t;
 
     final int NUM = 5;
 
