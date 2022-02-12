@@ -29,12 +29,9 @@ public enum Operacoes {
     Operacoes(String simbolo) {
         this.simbolo = simbolo;
     }
-
-
     @Override
     public String toString() {
         return this.simbolo;
     }
-
     abstract double executarOperacao(double x, double y);
 }
