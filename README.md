@@ -9,7 +9,7 @@
 
  - [x] Módulo 3: Programação multi-tarefas: Threads
 
- - [ ] Módulo 4: Trabalhando com Strings
+ - [x] Módulo 4: Trabalhando com Strings
  
  - [ ] Módulo 5: Classes Utilitárias (Datas, Locale, Math)
 ---
