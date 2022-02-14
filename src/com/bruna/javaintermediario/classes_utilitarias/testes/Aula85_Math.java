@@ -1,6 +1,6 @@
 package com.bruna.javaintermediario.classes_utilitarias.testes;
 
-public class Aula85 {
+public class Aula85_Math {
 
     public static void main(String[] args) {
 
