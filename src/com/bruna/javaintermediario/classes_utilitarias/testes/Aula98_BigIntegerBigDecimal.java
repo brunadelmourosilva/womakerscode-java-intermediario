@@ -27,6 +27,7 @@ public class Aula98_BigIntegerBigDecimal {
 
         System.out.println("------------------------");
 
+        //Integer
         BigInteger bi = new BigInteger("10000000000000000000");
         System.out.println(bi);
     }
