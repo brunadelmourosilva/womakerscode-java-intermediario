@@ -11,7 +11,7 @@
 
  - [x] Módulo 4: Trabalhando com Strings
  
- - [ ] Módulo 5: Classes Utilitárias (Datas, Locale, Math)
+ - [x] Módulo 5: Classes Utilitárias (Datas, Locale, Math)
 ---
 
 ## :pushpin:	Github Projects
